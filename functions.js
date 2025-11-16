@@ -1,3 +1,3 @@
 const a=()=>{
-alert("hellow")
+    alert("hellow")
 }
