@@ -3,5 +3,5 @@ const a=()=>{
 }
 
 const b=()=>{
-    console.log("bbbb");
+    console.log("function b");
 }
